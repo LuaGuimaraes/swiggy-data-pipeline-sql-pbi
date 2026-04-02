@@ -1,7 +1,6 @@
 /* =====================================================================
 PROJETO: Pedidos Swiggy (SQL Server)
-RESPONSÁVEL PELO PROJETO: Luana Mariano Guimaraes
-DOCUMENTAÇÃO E REFINAMENTO TÉCNICO: IA (ChatGPT-5.4)
+RESPONSÁVEL PELO PROJETO: Luana Guimaraes
 
    OBJETIVO:
      - Ingerir dados brutos com segurança (tudo como texto)
